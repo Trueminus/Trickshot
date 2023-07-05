@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6fced4ef402bdec429137f077311b8ee
+  - enabled: 1
+    path: Assets/Scenes/Firing Range.unity
+    guid: 171a6fac9fb8a4f438907ccd20d2b635
+  - enabled: 1
+    path: Assets/Scenes/First Practice.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/One Shot.unity
+    guid: 69aafd17b4d529f469072f5d02c401fd
+  - enabled: 1
+    path: Assets/Scenes/Push Forward.unity
+    guid: 851cbd05aaecbc64781b577d9b8b6f38
+  - enabled: 1
+    path: Assets/Scenes/Careful.unity
+    guid: 34e26d5d03bdcf24eb95f3d9709cf10c
+  - enabled: 1
+    path: Assets/Scenes/Many Birds.unity
+    guid: 8447de2500bedc84abec5f21f55d6abe
+  - enabled: 1
+    path: Assets/Scenes/Experiment #1.unity
+    guid: ff0044001a5ba8046a0d9143efdbdd46
+  m_configObjects: {}
